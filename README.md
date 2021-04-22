@@ -2,7 +2,7 @@
 A novel algorithm to score Methylation-Yielding Tumor Heterogeneity.
 
 ## Description
-The package is used to calculate IntraTumor Heterogeneity (ITH) based on alterations of DNAmethylation profiles.
+The package is used to calculate IntraTumor Heterogeneity (ITH) based on alterations of DNA methylation profiles.
 
 ## Installation
 You can install the released version of **MYTH** with:
