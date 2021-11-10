@@ -20,3 +20,6 @@ input_data_met <- read.table(path, stringsAsFactors = FALSE, sep = "\t", header 
 MYTH(input_data_met)
 ```
 
+## Citation
+
+Liu Q, Li L, Wang X. MYTH: An algorithm to score intratumour heterogeneity based on alterations of DNA methylation profiles. Clin Transl Med. 2021 Oct;11(10):e611. doi: 10.1002/ctm2.611. PMID: 34709741.
